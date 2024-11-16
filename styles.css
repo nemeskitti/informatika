@@ -1,0 +1,23 @@
+html {
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+header {
+    text-align: center;
+    font-size: 75px;
+}
+
+nav {
+    background-color: ghostwhite;
+    height: 60px;
+}
+
+nav ul{
+    font-size: 30px;
+    text-align: 10px;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: black;
+}
