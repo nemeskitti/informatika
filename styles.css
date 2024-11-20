@@ -9,18 +9,21 @@ header {
 }
 
 .content-box {
-    background-color: darkgrey;
+    background-color: grey;
     height: fit-content;
-
+    margin: 10px;
+    text-align: center;
 }
 
 .content-box h1 {
-    text-align: center;
     font-size: 65px;
 }
 
-.content p {
+.content {
     text-align: center;
+    margin: 15px;
+}
+.content p {
     font-size: 30px;
 }
 /*navigacios csik*/
