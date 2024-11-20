@@ -1,3 +1,4 @@
+/*main*/
 html {
     font-family: Arial, Helvetica, sans-serif; 
 }
@@ -7,6 +8,22 @@ header {
     font-size: 75px;
 }
 
+.content-box {
+    background-color: darkgrey;
+    height: fit-content;
+
+}
+
+.content-box h1 {
+    text-align: center;
+    font-size: 65px;
+}
+
+.content p {
+    text-align: center;
+    font-size: 30px;
+}
+/*navigacios csik*/
 nav {
     background-color: ghostwhite;
     height: 60px;
