@@ -34,9 +34,12 @@ header {
     text-decoration: none;
     font-size: 30px;
     color:black;
+    transition: 0.3s ;
 }
 
-
+.content a:hover{
+    background-color: white;
+}
 /*navigacios csik*/
 nav {
     background-color: grey;
