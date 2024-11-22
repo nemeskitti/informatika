@@ -41,6 +41,7 @@ header {
 nav {
     background-color: grey;
     height: fit-content;
+    width: fit-content;
 }
 
 nav ul{
@@ -51,7 +52,7 @@ nav ul{
 nav ul a {
     text-decoration: none;
     color: black;
-    margin: 10px;
+    margin: 11px;
     transition: 0.3s;
 }
 
