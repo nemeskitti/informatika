@@ -29,6 +29,13 @@ header {
 .content p {
     font-size: 30px;
 }
+ 
+.content a {
+    text-decoration: none;
+    font-size: 30px;
+}
+
+
 /*navigacios csik*/
 nav {
     background-color: grey;
