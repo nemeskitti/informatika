@@ -10,7 +10,7 @@ header {
 }
 
 .content-box {
-    background-color: grey;
+    background-color: darkgrey;
     height: fit-content;
     margin: 10px;
     text-align: center;
@@ -42,7 +42,7 @@ header {
 }
 /*navigacios csik*/
 nav {
-    background-color: grey;
+    background-color: darkgrey;
     height: fit-content;
     width: fit-content;
 }
