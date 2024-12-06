@@ -29,6 +29,10 @@ header {
 .content p {
     font-size: 30px;
 }
+
+.content pre {
+    font-size: 30px;
+}
  
 .content a {
     text-decoration: none;
