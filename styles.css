@@ -18,7 +18,7 @@ header {
 }
 
 .content-box h1 {
-    font-size: 60px;
+    font-size: 50px;
     margin-top: 5px;
 }
 
@@ -27,11 +27,11 @@ header {
     margin: 15px;
 }
 .content p {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .content h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
  
 .content a {
@@ -46,7 +46,6 @@ header {
 }
 /*navigacios csik*/
 nav {
-    background-color: darkgrey;
     height: fit-content;
 }
 
@@ -63,5 +62,5 @@ nav ul a {
 }
 
 nav ul a:hover{
-    background-color: whitesmoke;
+    background-color: darkgrey;
 }
