@@ -64,6 +64,7 @@ header {
     font-size: 30px;
     color:black;
     transition: 0.3s ;
+    text-align: center;
 }
 
 .contentp a:hover{
