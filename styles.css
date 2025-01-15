@@ -35,6 +35,10 @@ header {
     font-size: 35px;
 }
  
+.content li {
+    text-decoration: none;
+}
+
 .content a {
     text-decoration: none;
     font-size: 30px;
@@ -43,31 +47,6 @@ header {
 }
 
 .content a:hover{
-    background-color: white;
-}
-
-/*Content normalis*/
-.contentp {
-    text-align: center;
-    margin: 15px;
-}
-.contentp p {
-    font-size: 25px;
-}
-
-.contentp h2 {
-    font-size: 35px;
-}
- 
-.contentp a {
-    text-decoration: none;
-    font-size: 30px;
-    color:black;
-    transition: 0.3s ;
-    text-align: center;
-}
-
-.contentp a:hover{
     background-color: white;
 }
 
